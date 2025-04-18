@@ -17,10 +17,10 @@ public so(String ahrck,String sodyd,String rmfTmsdl) {
 		
 	
 	so o=new so("목차1","리스트","글쓴이");
-		p= o;
+	 p= o;
 
 		dodo.is.add(o);
-		dodo.ls.add((String) p);
+		dodo.ls.add(p);
 
 			}
 
