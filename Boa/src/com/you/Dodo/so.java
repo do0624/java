@@ -4,6 +4,7 @@ public class so {
 	public static String ahrck;
 	public static String sodyd;
 	public static String rmfTmsdl;
+	
 
 	
 
@@ -15,7 +16,8 @@ public static void isli(){
 	so p = new so("목차1","리스트","글쓴이");
 	Sv.y(ahrck);
 	Sv.y(sodyd);
-	Sv.y(rmfTmsdl);
+	Sv.y(rmfTmsdl);  
+	dodo.ls.add(p);
 		
 		
 		

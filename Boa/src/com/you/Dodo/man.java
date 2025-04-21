@@ -1,5 +1,8 @@
 package com.you.Dodo;
 
+import java.util.Arrays;
+
+
 public class man {
 
 
@@ -17,6 +20,12 @@ public class man {
 				
 				break;
 			case"d":
+				Sv.y("삭제할글");
+				Sv.y("글입력");				
+				String Ww=Sv.v();
+				dodo.is.remove((Arrays.asList(so.ahrck).indexOf(Ww)));
+			
+				
 				
 				break;
 			case"f":

@@ -9,7 +9,8 @@ import com.you.Dodo.man;
 public class Palist {
 
 	public static void li() {
-		System.out.println(dodo.is);
+//		String s = String.valueOf();
+//		System.out.println(s);
 		 
 		
 
